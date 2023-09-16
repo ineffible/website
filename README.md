@@ -21,7 +21,7 @@
         managed to create a foundation, and start work on the pulley system. We're planning to alter our design as necessary to complete our project realistically, 
         however. <br>
         
-   ![ruth](https://github.com/ineffible/website/assets/142843884/47b65a8b-541c-4ac5-bc40-382ebe3696f7)
+  ![ruth](https://github.com/ineffible/website/assets/142843884/47b65a8b-541c-4ac5-bc40-382ebe3696f7)
 
 9/11-9/15: Week 4 
         Work on the Ruth Goldberg project has concluded. That was all we worked on this week (no challenge or anything - unfortunate). 
@@ -29,8 +29,8 @@
         however, was getting the needle to stay in the right spot. The end goal of our machine had been to pop a balloon with a needle, which refused to stay
         in the right spot. We used a large amount of duct tape to get it to stay, and in our final run, we managed to pop said balloon successfully. <br>
         
-   ![pic](https://github.com/ineffible/website/assets/142843884/153ced77-98d1-4f9f-9118-0f07fd98d040) <br>\
-       https://github.com/ineffible/website/assets/142843884/33bd1e6d-9496-4a5b-9784-b73a52081eee
+  ![pic](https://github.com/ineffible/website/assets/142843884/153ced77-98d1-4f9f-9118-0f07fd98d040) <br>\
+   https://github.com/ineffible/website/assets/142843884/33bd1e6d-9496-4a5b-9784-b73a52081eee
 
         
 
