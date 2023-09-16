@@ -25,7 +25,7 @@
         Work on the Ruth Goldberg project has concluded. That was all we worked on this week (no challenge or anything - unfortunate). 
         My partner and I managed to complete the pulley system, add in the ramps and lever, and have multiple test runs completed. The challenging part of it,
         however, was getting the needle to stay in the right spot. The end goal of our machine had been to pop a balloon with a needle, which refused to stay
-        in the right spot. We used a large amount of duct tape to get it to stay, and in our final run, we managed to pop said balloon successfully.
+        in the right spot. We used a large amount of duct tape to get it to stay, and in our final run, we managed to pop said balloon successfully. <br>
        ![pic](https://github.com/ineffible/website/assets/142843884/153ced77-98d1-4f9f-9118-0f07fd98d040)
 
         
