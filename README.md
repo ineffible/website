@@ -12,8 +12,8 @@
             creating a model on Tinkercad. 
             This week, our challenge was to create a 3D model of a household object, such as a remote control, a couch, or a microwave. I created a bookshelf on 
             Tinkercad, although I didn't manage to completely fill it with books. In my personal opinion, the challenge wasn't exactly that hard. <br>
-            
-            ![book](https://github.com/ineffible/website/assets/142843884/79a04234-763a-49f1-95ea-8550741a2421)
+          
+  ![book](https://github.com/ineffible/website/assets/142843884/79a04234-763a-49f1-95ea-8550741a2421)
 
  9/5-9/8: Week 3 
         We've officially started work on our Ruth Goldberg machines! We also finalized the model's design on Tinkercad.
