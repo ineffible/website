@@ -26,8 +26,8 @@
         My partner and I managed to complete the pulley system, add in the ramps and lever, and have multiple test runs completed. The challenging part of it,
         however, was getting the needle to stay in the right spot. The end goal of our machine had been to pop a balloon with a needle, which refused to stay
         in the right spot. We used a large amount of duct tape to get it to stay, and in our final run, we managed to pop said balloon successfully.
-        ![PXL_20230914_202823221](https://github.com/ineffible/website/assets/142843884/a4d2f103-7bb7-4fad-b05a-71480b949194) 
-        ![PXL_20230914_202826852](https://github.com/ineffible/website/assets/142843884/ea6dbb7d-f5a6-499b-bbd4-b0f5cb1136de)
+       ![pic](https://github.com/ineffible/website/assets/142843884/153ced77-98d1-4f9f-9118-0f07fd98d040)
+
         
 
 https://github.com/ineffible/website/assets/142843884/33bd1e6d-9496-4a5b-9784-b73a52081eee
