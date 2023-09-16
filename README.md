@@ -29,8 +29,12 @@
         however, was getting the needle to stay in the right spot. The end goal of our machine had been to pop a balloon with a needle, which refused to stay
         in the right spot. We used a large amount of duct tape to get it to stay, and in our final run, we managed to pop said balloon successfully. <br>
         
-  ![pic](https://github.com/ineffible/website/assets/142843884/153ced77-98d1-4f9f-9118-0f07fd98d040) <br>\
-   https://github.com/ineffible/website/assets/142843884/33bd1e6d-9496-4a5b-9784-b73a52081eee
+  ![pic](https://github.com/ineffible/website/assets/142843884/153ced77-98d1-4f9f-9118-0f07fd98d040) 
+ 
+
+https://github.com/ineffible/website/assets/142843884/3a18995f-4751-4238-9983-f0ef14b3c73c
+
+
 
         
 
