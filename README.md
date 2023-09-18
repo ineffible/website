@@ -32,7 +32,8 @@
   ![pic](https://github.com/ineffible/website/assets/142843884/153ced77-98d1-4f9f-9118-0f07fd98d040) <br>
 
 
-https://github.com/ineffible/website/assets/142843884/41d91714-b5fd-455d-9535-f630d57a711d
+<video width="200" height ="100" control="" loop="">
+<source src="https://github.com/ineffible/website/assets/142843884/41d91714-b5fd-455d-9535-f630d57a711d" type="video/mp4">
 
 
 
