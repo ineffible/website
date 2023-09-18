@@ -33,7 +33,7 @@
 
 
 <video width="200" height ="100" control="" loop="">
-<source src="https://github.com/ineffible/website/assets/142843884/41d91714-b5fd-455d-9535-f630d57a711d" type="video/mp4">
+<source src="https://github.com/ineffible/website/assets/142843884/41d91714-b5fd-455d-9535-f630d57a711d" type="video/mov">
 
 
 
