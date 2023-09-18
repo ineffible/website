@@ -32,8 +32,11 @@
   ![pic](https://github.com/ineffible/website/assets/142843884/153ced77-98d1-4f9f-9118-0f07fd98d040) <br>
 
 
+https://github.com/ineffible/website/assets/142843884/ebc636e3-64ba-4337-a86b-0676506e78b6
 
-https://github.com/ineffible/website/assets/142843884/befba909-67a7-428d-abd7-ed5ca031a833
+
+
+
 
 
 
