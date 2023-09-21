@@ -36,8 +36,7 @@ https://github.com/ineffible/website/assets/142843884/667b220c-250a-4077-bd5b-04
        We worked on two projects this week. First was a floatation device, used to hold weights for up to 5 minutes. The second was designing an "E" and having someone else
        fabricate it. For the first project, the floatation device, I built a small raft with air pockets in parts of it to help it float. My plan was to put approximately 334
        grams of weight atop it, but the raft flipped over after I put the weights on it. For the second challenge, the "E", I designed an E with as many measurements as I deemed
-       neseccary. However, when I got another person's design, they hadn't put in enough effort for me to actually create an E. I had four lines on the paper, which didn't even
-       make a box. 
+       neseccary. However, when I got another person's design, they hadn't put in enough effort for me to actually create an E. I had four lines on the paper, which didn't even make a box. We also learned about Computer Engineering which was (sadly) not of much interest to me.
 
 
 
