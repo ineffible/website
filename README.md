@@ -37,7 +37,11 @@ https://github.com/ineffible/website/assets/142843884/667b220c-250a-4077-bd5b-04
        
 ![PXL_20230919_201735264](https://github.com/ineffible/website/assets/142843884/e1128d1e-a47d-4e84-ac1d-80cbd8a7c5a4)
 
-<body bgcolor="pale_yellow | FDFD96 | R: 99.2, G: 99.2, B: 58.8">
+<style>
+  body {
+    background: yellow;
+  }
+</style>
 
 
         
