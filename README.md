@@ -32,7 +32,7 @@
   ![pic](https://github.com/ineffible/website/assets/142843884/153ced77-98d1-4f9f-9118-0f07fd98d040) <br>
 
 <video width="200" height="400" controls="" loop="">
-<source src="Uploading PXL_20230914_204348041.mp4…" type="video/mp4">
+<source src="https://github.com/ineffible/website/assets/142843884/07196af1-a704-47ef-88c0-63fdc888a9db" type="video/mp4">
 
 
 
