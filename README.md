@@ -39,7 +39,7 @@ https://github.com/ineffible/website/assets/142843884/667b220c-250a-4077-bd5b-04
 
 <style>
   body {
-    background: yellow;
+    background: pale_yellow;
   }
 </style>
 
