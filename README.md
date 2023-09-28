@@ -31,7 +31,11 @@
         
   ![pic](https://github.com/ineffible/website/assets/142843884/153ced77-98d1-4f9f-9118-0f07fd98d040) <br>
 
-(https://github.com/ineffible/website/assets/142843884/cda35ba6-5209-4056-86a8-13fcbe301afa)
+
+
+[https://github.com/ineffible/website/assets/142843884/c8a279b5-2d4f-424c-a259-448a9120a1dc]
+
+
 
 
 9/18-9/22: Week 5 <br>
