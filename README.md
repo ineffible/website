@@ -38,9 +38,10 @@ https://github.com/ineffible/website/assets/142843884/667b220c-250a-4077-bd5b-04
 ![PXL_20230919_201735264](https://github.com/ineffible/website/assets/142843884/e1128d1e-a47d-4e84-ac1d-80cbd8a7c5a4)
 
 9/25-9/29: Week 6 <br>
-       This week, we dissected a computer and learned the parts of it. My partner and I were quite efficient with the disassembly, so we went a bit further with our "destruction". Meaning we took apart the disk drive as well as one other part (unsure of the name). Some of the parts we took out were the RAM, CPU, heatsink, fan, and much more. We then had to reassemble it, with minor difficulty due to the fact that neither of us knew what cords went where. We did manage to successfully put it back together, however, and when plugged into a monitor, the computer worked.
+       This week, we dissected a computer and learned the parts of it. My partner and I were quite efficient with the disassembly, so we went a bit further with our "destruction". Meaning we took apart the disk drive as well as the hard drive. Some of the parts we took out were the RAM, CPU, heatsink, fan, and much more. We then had to reassemble it, with minor difficulty due to the fact that neither of us knew what cords went where. We did manage to successfully put it back together, however, and when plugged into a monitor, the computer worked.
 
-       
+       ![PXL_20230926_203311167](https://github.com/ineffible/website/assets/142843884/383526ae-87ce-4eeb-9b8b-8fa1eb651b52)
+
 <style>
   body {
     background: blue;
