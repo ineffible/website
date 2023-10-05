@@ -31,9 +31,6 @@
         
   ![pic](https://github.com/ineffible/website/assets/142843884/153ced77-98d1-4f9f-9118-0f07fd98d040) <br>
 
-<video width="200" height="400" controls="" loop="">
-<source src="https://github.com/ineffible/website/assets/142843884/07196af1-a704-47ef-88c0-63fdc888a9db" type="video/mp4"> <br>
-
 <p>
   9/18-9/22: Week 5 <br>
        We worked on two projects this week. First was a floatation device, used to hold weights for up to 5 minutes. The second was designing an "E" and having someone else fabricate it. For the first project, the floatation device, I built a small raft with air pockets in parts of it to help it float. My plan was to put approximately 334 grams of weight atop it, but the raft flipped over after I put the weights on it. For the second challenge, the "E", I designed an E with as many measurements as I deemed neseccary. However, when I got another person's design, they hadn't put in enough effort for me to actually create an E. I had four lines on the paper, which didn't even make a box. We also learned about Computer Engineering which was (sadly) not of much interest to me. <br></p>
