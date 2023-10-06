@@ -31,7 +31,7 @@
         
   ![pic](https://github.com/ineffible/website/assets/142843884/153ced77-98d1-4f9f-9118-0f07fd98d040) <br>
 
-  ![Untitled video - Made with Clipchamp (1)](https://github.com/ineffible/website/assets/142843884/926e4949-10f8-4611-b96a-07c28883d513)
+![Untitled video - Made with Clipchamp (1)](https://github.com/ineffible/website/assets/142843884/c578a953-95cf-4cf6-9ce3-5c3a62d0d4c9)
 
 <p>
   9/18-9/22: Week 5 <br>
