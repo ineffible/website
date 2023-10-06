@@ -51,6 +51,8 @@
 
 ![PXL_20231003_211316503](https://github.com/ineffible/website/assets/142843884/0ae4c1c4-dd21-4c57-89c5-73ed460e2779)
 
+![Untitled video - Made with Clipchamp](https://github.com/ineffible/website/assets/142843884/94afca66-f5b4-4a9a-a9ae-1bcdf12fe882)
+
 <style>
   body {
     background: teal;
