@@ -44,6 +44,14 @@
 
    ![PXL_20230926_203311167](https://github.com/ineffible/website/assets/142843884/383526ae-87ce-4eeb-9b8b-8fa1eb651b52)
 
+<p>
+10/2-10/6: Week 7 <br>
+      We went over bioengineering, specifically looking at prosthetic limbs. One of our challenges was to design and make a hand out of cardboard, that could pick up an empty waterbottle. My partner and I managed to do it with relative ease, using string to close the fingers and rubber bands on the fingertips for grip. We then had another challenge later on, which was to design a prosthetic limb for an animal of our choice. I decided to make a prosthetic dorsal fin for a shark. It looked relatively similiar to how an actual fin would've looked in shape, however it may have been relatively complicated for figure out the proper material for it.
+</p>
+
+![PXL_20231003_211316503](https://github.com/ineffible/website/assets/142843884/b2413e01-3b10-40dd-989c-bbb553ca33c7)
+
+
 <style>
   body {
     background: teal;
