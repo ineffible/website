@@ -49,7 +49,7 @@
       We went over bioengineering, specifically looking at prosthetic limbs. One of our challenges was to design and make a hand out of cardboard, that could pick up an empty waterbottle. My partner and I managed to do it with relative ease, using string to close the fingers and rubber bands on the fingertips for grip. We then had another challenge later on, which was to design a prosthetic limb for an animal of our choice. I decided to make a prosthetic dorsal fin for a shark. It looked relatively similiar to how an actual fin would've looked in shape, however it may have been relatively complicated for figure out the proper material for it.
 </p>
 
-![PXL_20231003_211316503](https://github.com/ineffible/website/assets/142843884/34a43716-3bc9-47a4-a4bb-b6300ab961b8)
+![PXL_20231003_211316503](https://github.com/ineffible/website/assets/142843884/0ae4c1c4-dd21-4c57-89c5-73ed460e2779)
 
 <style>
   body {
