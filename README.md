@@ -57,12 +57,10 @@
 
 <p>
 10/9-10/13: Week 8 <br>
-      For this week, we went over Aerospace Engineering, which was a very interesting topic. Aerospace Engineering focuses on rockets and planes, so our challenge was to create a bottle airplane or rocket out of a 2L coke bottle. We were to create them on Tinkercad, however. As I was at home, I completed the challenge with relative ease. My design is of a rocket, it is incredibly simple though.
-  
+      For this week, we went over Aerospace Engineering, which was a very interesting topic. Aerospace Engineering focuses on rockets and planes, so our challenge was to create a bottle airplane or rocket out of a 2L coke bottle. We were to create them on Tinkercad, however. As I was at home, I completed the challenge with relative ease. My design is of a rocket, it is incredibly simple though. <br>
+</p>  
 ![bottle rocket2 0](https://github.com/ineffible/website/assets/142843884/3065817e-48cf-4fc2-a157-55e22a49a468)
 
-
-</p>
 <style>
   body {
     background: teal;
