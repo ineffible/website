@@ -55,6 +55,13 @@
 
 ![Untitled video - Made with Clipchamp](https://github.com/ineffible/website/assets/142843884/94afca66-f5b4-4a9a-a9ae-1bcdf12fe882)
 
+<p>
+10/9-10/13: Week 8 <br>
+      For this week, we went over Aerospace Engineering, which was a very interesting topic. Aerospace Engineering focuses on rockets and planes, so our challenge was to create a bottle airplane or rocket out of a 2L coke bottle. We were to create them on Tinkercad, however. As I was at home, I completed the challenge with relative ease. My design is of a rocket, it is incredibly simple though.
+  
+  ![bottle rocket](https://github.com/ineffible/website/assets/142843884/186d6913-2d3b-4103-9883-de2c374b8c2c)
+
+</p>
 <style>
   body {
     background: teal;
