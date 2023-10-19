@@ -77,7 +77,7 @@
 
 <style>
   body {
-    background: teal;
+    background: light pink;
   }
 </style>
 
