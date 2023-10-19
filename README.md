@@ -77,7 +77,7 @@
 
 <style>
   body {
-    background: light pink;
+    background: pink;
   }
 </style>
 
