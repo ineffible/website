@@ -75,6 +75,10 @@
       This week, we continued our Aerospace Engineering unit through the creation and testing of a bottle plane/rocket. My partner and I's design was quite simple, with just wings, a fin, and a cone. Said rocket was filled with about half a cup of water, and pressurized to fourty psi. Then, we launched it twice, as the first time it got stuck on the launch pad. The second time it didn't go very far, although it did go. If we had been able to go again, I think we would've redesigned the plane to have a more rocket-like appearance, with large enough fins that it'd have enough spin to go far enough. I think we would also do a bit more pressure, so that it launches farther. <br>
 </p>
 
+![rocket](https://github.com/ineffible/website/assets/142843884/92239bb5-2830-4d2d-a429-6c0933473518)
+
+![Untitled video - Made with Clipchamp (2)](https://github.com/ineffible/website/assets/142843884/bde30c7b-dfcf-4b5e-b698-0512e3015a0b)
+
 <style>
   body {
     background: pink;
