@@ -81,7 +81,7 @@
 
 <p align="center">
 10/23-10/27: Week 10 <br>
-      Our focus for this week was Environmental Engineering. We learned about the different types of it, such as water pollution focused, light and noise pollution focused, and air pollution focused. Our project was to create a filter and clean dirty water through it, in hopes of making it clear. My partner and I decided to do cotton balls on the bottom, a layer of sand,then pebbles, then rocks. After every other runthrough of the dirty wate,r, we would clean our filter using clear water, and after a bit took out the pebbles and rocks. We managed to make our water incredibly clear, while many other groups had very yellow water. It was later revealed to us that our water was the clearest. <br>
+      Our focus for this week was Environmental Engineering. We learned about the different types of it, such as water pollution focused, light and noise pollution focused, and air pollution focused. Our project was to create a filter and clean dirty water through it, in hopes of making it clear. My partner and I decided to do cotton balls on the bottom, a layer of sand,then pebbles, then rocks. After every other runthrough of the dirty water, we would clean our filter using clear water, and after a bit took out the pebbles and rocks. We managed to make our water incredibly clear, while many other groups had very yellow water. It was later revealed to us that our water was the clearest. <br>
   </p>
 
  ![meow](https://github.com/ineffible/website/assets/142843884/3b1defa3-1f25-4b9f-aa9b-2fd742c07aaa)
