@@ -88,7 +88,7 @@
 
 <p align="center">
 10/30-11/3: Week 11 <br>
-      This week, we learned about Electrical Engineering. Many types of engineering use Electrical engineering, and in my opinion, so far it is the one I am most interested in. We had two labs this week, revolving around this type of engineering. Our goal was to use a tinkercad to turn a LED light on with a breadboard. While it was a bit of a challenge, once it was completed it made sense. 
+      This week, we learned about Electrical Engineering. Many types of engineering use Electrical engineering, and in my opinion, so far it is the one I am most interested in. We had two labs this week, revolving around this type of engineering. Our goal was to use a tinkercad to turn a LED light on with a breadboard. While it was a bit of a challenge, once it was completed it made sense. We also filled out a worksheet about Ohm's law, which was relatively simple, although a bit confusing.
 </p>
 
   ![Screenshot 2023-11-01 2 05 48 PM](https://github.com/ineffible/website/assets/142843884/d652e307-21eb-462a-a7d6-12d7696be5ef)
