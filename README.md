@@ -92,7 +92,13 @@
 </p>
 
   ![Screenshot 2023-11-01 2 05 48 PM](https://github.com/ineffible/website/assets/142843884/d652e307-21eb-462a-a7d6-12d7696be5ef)
-  
+
+
+<p alight="center">
+11/6-11/9: Week 12 <br>
+      We continued on Electrical Engineering this week, taking it a step further with using actual breadboards. We had a few labs revolving around this, like turning on multiple LEDs with only one resistor, or using and Arduino to make the LED blink. The Aduino bit was an amount more challenging, however, as the website didn't work properly. I managed to get the three LEDs to blink, however I couldn't get them to change sequence. The breadboard was a bit complicated, but I managed to work it out okay.
+</p>
+
 <style>
   body {
     background: pink;
