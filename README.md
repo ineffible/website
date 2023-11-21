@@ -99,10 +99,14 @@
       We continued on Electrical Engineering this week, taking it a step further with using actual breadboards. We had a few labs revolving around this, like turning on multiple LEDs with only one resistor, or using and Arduino to make the LED blink. The Aduino bit was an amount more challenging, however, as the website didn't work properly. I managed to get the three LEDs to blink, however I couldn't get them to change sequence. The breadboard was a bit complicated, but I managed to work it out okay.
 </p>
 
+![Untitled video - Made with Clipchamp (3)](https://github.com/ineffible/website/assets/142843884/c084856e-270e-4b79-8ead-9f2cedf9551d)
+
 <p align="center">
 11/13-11/17: Week 13 <br>
        Business engineering was the main focus of this week's lecture. The area focuses on the logistics of creating, manufacturing, and selling a product. We also began to brainstorm for our project, which is based off of the show, "Sharktank". My group does not currently have a finalized plan, but I am hoping that after the break we will come up with something. We watched a few minutes of a few projects that were broadcasted on the show, such as the Scrub Daddy, and some kind of lock.
 </p>
+
+![SS_16_ScrubDaddy_R081716_1200](https://github.com/ineffible/website/assets/142843884/2fb9155f-449e-4e4f-9afa-b00da01f70c0)
 
 <style>
   body {
