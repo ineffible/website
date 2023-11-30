@@ -113,7 +113,7 @@
       We presented our Sharktank product, the PinMaster Pro. It's used to measure the distance between two pins wirelessly, and the distance is read on a small screen. Our presentation covered pricing, our selling point, custumors, and the amount of money were asking for. I think it went pretty well, although another group had a very similar idea. We also were quizzed on business engineering, and I knew most of the information.
 </p>
 
-![export202311281312042161](https://github.com/ineffible/website/assets/142843884/a48218e1-01a9-4bdd-9b4c-95c32b9d461b)
+![export202311281312042161](https://github.com/ineffible/website/assets/142843884/a3c9923e-946b-42a6-bdd3-9bb33a2a9eca)
 
 <style>
   body {
