@@ -110,7 +110,7 @@
 
 <p align="center">
 11/27-12/1: Week 14 <br>
-      We presented our Sharktank product, the PinMaster Pro. It's used to measure the distance between two pins wirelessly, and the distance is read on a small screen. Our presentation covered pricing, our selling point, custumors, and the amount of money were asking for. I think it went pretty well, although another group had a very similar idea. We also were quizzed on business engineering, and I knew most of the information.
+      We presented our Sharktank product, the PinMaster Pro. It's used to measure the distance between two pins wirelessly, and the distance is read on a small screen. Our presentation covered pricing, our selling point, custumors, and the amount of money were asking for. I think it went pretty well, although another group had a very similar idea. The most pitch made by my classmates was definitely the ScrubDoggy, which was a byproduct of the ScrubDaddy, but made to clean dogs.
 </p>
 
 ![export202311281312042161](https://github.com/ineffible/website/assets/142843884/a3c9923e-946b-42a6-bdd3-9bb33a2a9eca)
