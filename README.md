@@ -127,6 +127,7 @@
   <li> Our design worked a bit better than we thought it would, as my partner and I were worried it would break apart due to how the glue was. Parts of the glue were wet while we were testing, which wasn't ideal.</li>
   <li> There wasn't really a point of failure to the bridge. The only reason we really stopped was because the bucket couldn't hold anymore water. However, the sides did start to crumble under where we were holding it.</li>
   <li> To improve the bridge, next time it may be beneficial to have more pasta, so that we don't have to conserve as much. It also wouldv've been good to have more time. </li>
+</ol>
 <style>
   body {
     background: pink;
