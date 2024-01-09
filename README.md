@@ -115,6 +115,18 @@
 
 ![export202311281312042161](https://github.com/ineffible/website/assets/142843884/a3c9923e-946b-42a6-bdd3-9bb33a2a9eca)
 
+<p align="center">
+12/4-12/20: Week 15 <br>
+      Our final project for the semester was to make two bridges out of pasta and glue, and to be able to support a bucket of water with it. My group split into two groups to complete the task.
+<ol type="1">
+  <li> The bridge my partner and I worked on weighed __ grams.</li>
+  <li> It held about ____ of water</li>
+  <li> The ratio of bridge to water was ____</li>
+  <li> The heaviest part of the bridge was likely the glue holding it all together, which contributed to the main weight. The actual pasta didn't weigh much. </li>
+  <li> The design of our bridge was inspired by a truss bridge, which are strong because of how the triangles work. </li>
+  <li> Our design worked a bit better than we thought it would, as my partner and I were worried it would break apart due to how the glue was. Parts of the glue were wet while we were testing, which wasn't ideal.</li>
+  <li> There wasn't really a point of failure to the bridge. The only reason we really stopped was because the bucket couldn't hold anymore water. However, the sides did start to crumble under where we were holding it.</li>
+  <li> To improve the bridge, next time it may be beneficial to have more pasta, so that we don't have to conserve as much. It also wouldv've been good to have more time. </li>
 <style>
   body {
     background: pink;
