@@ -119,9 +119,9 @@
 12/4-12/20: Week 15 <br>
       Our final project for the semester was to make two bridges out of pasta and glue, and to be able to support a bucket of water with it. My group split into two groups to complete the task.
 <ol type="1">
-  <li> The bridge my partner and I worked on weighed __ grams.</li>
-  <li> It held about ____ of water</li>
-  <li> The ratio of bridge to water was ____</li>
+  <li> The bridge my partner and I worked on weighed 100 grams. It was the heaviest bridge out of the class. </li>
+  <li> It held about 4000 grams of water. My partner and I are pretty sure it could've held more, however the bucket was out of space. It held the most water out of the whole class, however. </li>
+  <li> The ratio of bridge to water was for every 40 grams of water, there was one gram of bridge. 40:1. </li>
   <li> The heaviest part of the bridge was likely the glue holding it all together, which contributed to the main weight. The actual pasta didn't weigh much. </li>
   <li> The design of our bridge was inspired by a truss bridge, which are strong because of how the triangles work. </li>
   <li> Our design worked a bit better than we thought it would, as my partner and I were worried it would break apart due to how the glue was. Parts of the glue were wet while we were testing, which wasn't ideal.</li>
