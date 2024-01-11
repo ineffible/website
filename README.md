@@ -128,6 +128,23 @@
   <li> There wasn't really a point of failure to the bridge. The only reason we really stopped was because the bucket couldn't hold anymore water. However, the sides did start to crumble under where we were holding it.</li>
   <li> To improve the bridge, next time it may be beneficial to have more pasta, so that we don't have to conserve as much. It also wouldv've been good to have more time. </li>
 </ol>
+
+![IMG_20240110_204430](https://github.com/ineffible/website/assets/142843884/13d9a837-2434-43f6-9d7e-58d1567b245c)
+
+![IMG_20240110_204431](https://github.com/ineffible/website/assets/142843884/ab5c2805-89c9-4d99-8bd8-26ea2eb172b2)
+
+![IMG_20240110_204433](https://github.com/ineffible/website/assets/142843884/61fda61d-003d-4571-9d36-8a2c6aa0aafc)
+
+![IMG_20240110_204422](https://github.com/ineffible/website/assets/142843884/7def6590-e67a-4027-b183-abbc66773fad)
+
+![IMG_20240110_204426](https://github.com/ineffible/website/assets/142843884/75e56699-f2bc-49fa-a5b2-90e2e3d0e85a)
+
+![IMG_20240110_204428](https://github.com/ineffible/website/assets/142843884/1fdf96a5-034c-4105-b694-cd9de79812d3)
+
+![IMG_20240110_204427](https://github.com/ineffible/website/assets/142843884/da4bca1d-8923-4a57-9bf0-2a73072c6fa8)
+
+![IMG_20240110_204422 (1)](https://github.com/ineffible/website/assets/142843884/a0e42f66-eecf-4c19-b171-14e37ffa005a)
+
 <style>
   body {
     background: pink;
