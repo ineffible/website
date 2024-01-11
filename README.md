@@ -145,6 +145,8 @@
 
 ![IMG_20240110_204422 (1)](https://github.com/ineffible/website/assets/142843884/a0e42f66-eecf-4c19-b171-14e37ffa005a)
 
+https://github.com/ineffible/website/assets/142843884/5b32bda8-f3b2-4add-b8e9-26ff249c9a4a
+
 <style>
   body {
     background: pink;
