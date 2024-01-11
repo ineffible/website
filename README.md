@@ -147,6 +147,11 @@
 
 https://github.com/ineffible/website/assets/142843884/5b32bda8-f3b2-4add-b8e9-26ff249c9a4a
 
+SEMESTER 2
+
+S2 Week 1: 1/8-1/12
+        This week our focus was chemical engineering. We learned about mass production of chemical products, and about how important it is to balance mixtures properly. Based around that, our project was to make Oobleck without a recipe. Oobleck is a liquid, that when struck at a high force, turns solid. It's made with corn starch and water, however we weren't given a recipe, and had to guess. Our mixture turned out well.
+
 <style>
   body {
     background: pink;
