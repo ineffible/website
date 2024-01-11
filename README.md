@@ -129,7 +129,7 @@
   <li> To improve the bridge, next time it may be beneficial to have more pasta, so that we don't have to conserve as much. It also wouldv've been good to have more time. </li>
 </ol>
 
-[IMG_20240110_204430](https://github.com/ineffible/website/assets/142843884/13d9a837-2434-43f6-9d7e-58d1567b245c)  <br>
+![IMG_20240110_204430](https://github.com/ineffible/website/assets/142843884/13d9a837-2434-43f6-9d7e-58d1567b245c)  <br>
 
 ![IMG_20240110_204431](https://github.com/ineffible/website/assets/142843884/ab5c2805-89c9-4d99-8bd8-26ea2eb172b2) <br>
 
