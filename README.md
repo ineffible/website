@@ -145,6 +145,8 @@
 
 ![IMG_20240110_204430](https://github.com/ineffible/website/assets/142843884/122e811e-781e-49da-997c-31a84c3eabc4)
 
+![Untitled video - Made with Clipchamp (4)](https://github.com/ineffible/website/assets/142843884/bcc4db1b-ea06-4ecb-80f6-7aba440bba97)
+
 <p align="center">
 SEMESTER 2
 </p>
