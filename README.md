@@ -131,7 +131,19 @@
 
 ![IMG_20240110_204422 (1)](https://github.com/ineffible/website/assets/142843884/49accb34-6d5d-46fc-add7-477deb71579a)
 
+![IMG_20240110_204427](https://github.com/ineffible/website/assets/142843884/4a31fdb4-e9fc-4f73-90de-0e81b0c6f6ad)
 
+![IMG_20240110_204428](https://github.com/ineffible/website/assets/142843884/5e0452d8-237e-4ad6-a138-a0afcfea2eb9)
+
+![IMG_20240110_204422](https://github.com/ineffible/website/assets/142843884/42a3bc71-4ad5-495f-992a-fd5726437fee)
+
+![IMG_20240110_204426](https://github.com/ineffible/website/assets/142843884/9fe99d2b-0b9d-42ae-905f-8520d7037486)
+
+![IMG_20240110_204433](https://github.com/ineffible/website/assets/142843884/be3bce83-13bf-4896-b0dc-f13527493252)
+
+![IMG_20240110_204431](https://github.com/ineffible/website/assets/142843884/fb763ead-3bf9-4645-849c-31cc9b899bc6)
+
+![IMG_20240110_204430](https://github.com/ineffible/website/assets/142843884/122e811e-781e-49da-997c-31a84c3eabc4)
 
 <p align="center">
 SEMESTER 2
