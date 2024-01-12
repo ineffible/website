@@ -156,6 +156,8 @@ S2 Week 1: 1/8-1/12
         This week our focus was chemical engineering. We learned about mass production of chemical products, and about how important it is to balance mixtures properly. Based around that, our project was to make Oobleck without a recipe. Oobleck is a liquid, that when struck at a high force, turns solid. It's made with corn starch and water, however we weren't given a recipe, and had to guess. Our mixture turned out well.
 </p>
 
+![Untitled video - Made with Clipchamp (5)](https://github.com/ineffible/website/assets/142843884/655b819b-38f8-4696-bd1b-7c0c032376f5)
+
 <style>
   body {
     background: pink;
