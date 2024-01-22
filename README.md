@@ -158,6 +158,13 @@ S2 Week 1: 1/8-1/12
 
 ![Untitled video - Made with Clipchamp (5)](https://github.com/ineffible/website/assets/142843884/655b819b-38f8-4696-bd1b-7c0c032376f5)
 
+<p align="center">
+S2 Week 2: 1/15-1/19 <br>
+        This week, we started work on our project. We are creating mousetrap or arduino cars. My partner and I decided to create an arduino car, so we began work on our project proposal. We researched prices, and different ideas for coding and looks for the car. We also watched a video on the mousetrap car, where we learned that if we were to do a mousetrap car, we'd want it to go as slow as possible to gain the most distance.
+</p>
+
+![download](https://github.com/ineffible/website/assets/142843884/33105ef6-1f82-4eea-89a6-bc5dbd904a30)
+
 <style>
   body {
     background: pink;
