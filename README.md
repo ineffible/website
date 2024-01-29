@@ -165,6 +165,13 @@ S2 Week 2: 1/15-1/19 <br>
 
 ![download](https://github.com/ineffible/website/assets/142843884/33105ef6-1f82-4eea-89a6-bc5dbd904a30)
 
+<p align-"center">
+S2 Week 3: 1/22-1/26 <br>
+        We continued work on arduino cars this week. Starting with, we created the Tinkercad, and then began work on the actual code and car. The code is not working so far, but we think we'll be able to get it to. That's our goal for this week, as well as finishing the base build of the car. We are also hoping to get the car to move an amount.
+</p>
+
+![Screenshot 2024-01-23 2 24 09 PM](https://github.com/ineffible/website/assets/142843884/c97a5f2b-d1af-4fb2-9037-b9e515ee098a)
+
 <style>
   body {
     background: pink;
