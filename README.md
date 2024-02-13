@@ -179,6 +179,13 @@ S2 Week 3: 1/22-1/26 <br>
 
 ![1129065663881t](https://github.com/ineffible/website/assets/142843884/b656b063-65c8-41d8-bc0d-437237108db6)
 
+<p align="center">
+  S2 Week 5: 2/5-2/9 <br>
+          We continued to work on our arduino car. We started work on the body, although we didn't get much done. Still having problems with the code, we found a few different ones to try out. None worked, so we will be continuing to try new ones and edit the old one until it works. We are hoping to finish the body next week, and be completely done with the code.
+</p>
+
+![Screenshot 2024-02-13 2 15 07 PM](https://github.com/ineffible/website/assets/142843884/ee95cb5e-4478-4f4b-bfb6-de1d27d4c11c)
+
 <style>
   body {
     background: pink;
