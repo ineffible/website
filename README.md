@@ -186,6 +186,12 @@ S2 Week 3: 1/22-1/26 <br>
 
 ![Screenshot 2024-02-13 2 15 07 PM](https://github.com/ineffible/website/assets/142843884/ee95cb5e-4478-4f4b-bfb6-de1d27d4c11c)
 
+<p align-"center">
+  S2 Week 6: 2/12-2/16 <br>
+          We managed to figure out why our car doesn't work, our motor being the problem. We ended up rewiring the car, and made minor changes to the code. We also resautered a wheel (several times). We're hoping to be completely finished with the car next week. We have most of the body done, as well.
+
+![download (1)](https://github.com/ineffible/website/assets/142843884/01e66718-9bab-48da-8523-aee55ffc7303)
+
 <style>
   body {
     background: pink;
