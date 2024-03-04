@@ -186,11 +186,22 @@ S2 Week 3: 1/22-1/26 <br>
 
 ![Screenshot 2024-02-13 2 15 07 PM](https://github.com/ineffible/website/assets/142843884/ee95cb5e-4478-4f4b-bfb6-de1d27d4c11c)
 
-<p align-"center">
+<p align="center">
   S2 Week 6: 2/12-2/16 <br>
           We managed to figure out why our car doesn't work, our motor being the problem. We ended up rewiring the car, and made minor changes to the code. We also resautered a wheel (several times). We're hoping to be completely finished with the car next week. We have most of the body done, as well.
 
 ![download (1)](https://github.com/ineffible/website/assets/142843884/01e66718-9bab-48da-8523-aee55ffc7303)
+
+<p align="center">
+  S2 Week 7: 2/19-2/23 <br>
+           This week, we tested our car. It went relatively well, although the main thing our car did was go in circles. If we had more time, I believe my partner and I could've improved on both the body and the coding. The body we would've fleshed out more, and made into an actual design. For the code, we could've figured out how to make the car follow an actual path.
+
+
+<p align="center">
+  S2 Week 8: 2/26-3/1 <br>
+          We began work on our next project, the egg drop challenge. The goal is to drop an egg inside of some kind of protective material and have the egg survive. My partner and I began research by studying an egg, and figuring out the best way to protect it. We plan to make a small box, padded with cotton, and with a parachute attached to slow the fall. We also did a mini challenge, doors vs wheels. We were assigned to wheels, and had to count the amount of wheels in the school. We found that hinges counted as wheels, along with sewing bobbins, and many other things. 
+
+![Screenshot 2024-03-04 1 54 14 PM](https://github.com/ineffible/website/assets/142843884/30aebeba-43cd-414a-be12-4defb1ec5a7d)
 
 <style>
   body {
