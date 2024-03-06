@@ -196,6 +196,7 @@ S2 Week 3: 1/22-1/26 <br>
   S2 Week 7: 2/19-2/23 <br>
            This week, we tested our car. It went relatively well, although the main thing our car did was go in circles. If we had more time, I believe my partner and I could've improved on both the body and the coding. The body we would've fleshed out more, and made into an actual design. For the code, we could've figured out how to make the car follow an actual path.
 
+![Untitled video - Made with Clipchamp (6)](https://github.com/ineffible/website/assets/142843884/ed492bc8-dfb2-48a4-91f8-0d8938195125)
 
 <p align="center">
   S2 Week 8: 2/26-3/1 <br>
