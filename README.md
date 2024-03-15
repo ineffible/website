@@ -207,6 +207,18 @@ S2 Week 3: 1/22-1/26 <br>
 
 ![Screenshot 2024-03-04 1 54 14 PM](https://github.com/ineffible/website/assets/142843884/30aebeba-43cd-414a-be12-4defb1ec5a7d)
 
+<p align="center">
+   S2 Week 9: 3/4-3/8 <br>
+        For our egg drop machine, we made a small box, and created some kind of webbing inside it. We then surrounded that with cottonballs we unrolled, and created a large parachute to slow the fall. For the last day of building, we plan to finish the webbing, and do a few more test runs. We also did the flying paper challenge, which I created a paper airplane for. It went pretty far, but was not the farthest.
+</p>
+
+
+<p align="center">
+  S2 Week 10: 3/11-3/15 <br>
+       I was not here this week, so my partner was in charge of the egg drop. For the challenge, our parachute greatly slowed the device, so the egg did not break! Had we more time, we're not quite sure what we would add, although we may have tried to clean up the design a bit. I was not here for the other challenge, so I cannot make comments on how it went.
+</p>
+
+
 <style>
   body {
     background: pink;
