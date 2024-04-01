@@ -219,6 +219,12 @@ S2 Week 3: 1/22-1/26 <br>
 </p>
 
 
+<p align-"center">
+  S2 Week 11: 3/25-3/29
+        This week, we started work on another project, creating a boat to move quickly down a rain gutter. Our design is a waterbottle with a sail, although we ran into some problems with the sail. The original plan was with a water balloon, but it was too small, so currently in use is a piece of paper made into a cone. We also plan on powering it with wind power and a hand-held fan. For the boat, the width had to be less than 8 cm, so we've had some minor problems when it came to that.
+  
+  ![Screenshot 2024-04-01 1 30 21 PM](https://github.com/ineffible/website/assets/142843884/c2bffd38-7078-435f-807b-ffc5bf0d0a31)
+
 <style>
   body {
     background: pink;
