@@ -234,7 +234,7 @@ S2 Week 3: 1/22-1/26 <br>
 
 <p align-"center">
 S2 Week 13: 4/8-4/12 <br>
-          This week, we started out by working on the TinkerCAD for our next project, which will be a cardboard boat that will have two people in it, and be paddled across a pool. My design, as we have not started working with partners just yet, is similar to that of a canoe, so it hopefully will be fast enough to come in first place. The rest of class we spent working on a mini-project, on who could make the longest bridge out of just sticky-notes. Our bridge was estimated to be about 570", as we cut each sticky note into 24 pieces, and stuck them together about 1/4" layered. Unfortunately I did miss the testing of the bridge, as I had to get to my next class, but I think it went well.
+          This week, we started out by working on the TinkerCAD for our next project, which will be a cardboard boat that will have two people in it, and be paddled across a pool. My design, as we have not started working with partners just yet, is similar to that of a canoe, so it hopefully will be fast enough to come in first place. The rest of class we spent working on a mini-project, on who could make the longest bridge out of just sticky-notes. Our bridge was estimated to be about 570", as we cut each sticky note into 24 pieces, and stuck them together about 1/4" layered. Unfortunately I did miss the testing of the bridge, as I had to get to my next class, but I heard that it fell apart :(
 </p>
 
   ![Screenshot 2024-04-15 1 32 22 PM](https://github.com/ineffible/website/assets/142843884/643a9a77-2aea-417f-8032-0b0ced9eb982)
