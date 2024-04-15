@@ -239,6 +239,8 @@ S2 Week 13: 4/8-4/12 <br>
 
   ![Screenshot 2024-04-15 1 32 22 PM](https://github.com/ineffible/website/assets/142843884/643a9a77-2aea-417f-8032-0b0ced9eb982)
 
+![unnamed (5)](https://github.com/ineffible/website/assets/142843884/16694d7b-0de0-41f1-86a0-74eaa856d5ea)
+
 <style>
   body {
     background: pink;
