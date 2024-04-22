@@ -241,6 +241,10 @@ S2 Week 13: 4/8-4/12 <br>
 
 ![unnamed (5)](https://github.com/ineffible/website/assets/142843884/16694d7b-0de0-41f1-86a0-74eaa856d5ea)
 
+<p align="center">
+S2 Week 14: 4/15-4/19 <br>
+         We began work on the boat this week. So far we have managed to make the inner body of the boat, but have not finished work on the back of the boat. So far we have done a lot of good work, and have not actually used any tape, as we're temporarily using binder clips. Along with this, we have also managed to figure out all our work for next week, where we will start to work on the outer body of the boat. So far we have mostly been following our TinkerCAD's dimensions, although we many need to see about altering them slightly once we've got the outer body done... (image to be uploaded on Thursday, once we have it :3)
+</p>
 <style>
   body {
     background: pink;
