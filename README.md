@@ -232,6 +232,8 @@ S2 Week 3: 1/22-1/26 <br>
           This week, we finalized the design of our boat, and tested. We had to add something to stabilize the boat in the water, so we cut up a straw and taped it to the bottom so that it would stay upright. Our testing went badly, however, because the boat still wouldn't stay upright. We did not make it to the end, however the use of the fan did get us higher points. If we could've redone the project, I think we would've figured out how to make our boat stay upright, and make our sail much, much better. We also could've increased the size of the fan. I learned that while the design may seem good, there is always more to improve on.
 </p>
 
+![PXL_20240408_202613875](https://github.com/ineffible/website/assets/142843884/125c44be-34f3-43dd-a3c2-58f0138d97bc)
+
 <p align="center">
 S2 Week 13: 4/8-4/12 <br>
           This week, we started out by working on the TinkerCAD for our next project, which will be a cardboard boat that will have two people in it, and be paddled across a pool. My design, as we have not started working with partners just yet, is similar to that of a canoe, so it hopefully will be fast enough to come in first place. The rest of class we spent working on a mini-project, on who could make the longest bridge out of just sticky-notes. Our bridge was estimated to be about 570", as we cut each sticky note into 24 pieces, and stuck them together about 1/4" layered. Unfortunately I did miss the testing of the bridge, as I had to get to my next class, but I heard that it fell apart :(
@@ -243,7 +245,14 @@ S2 Week 13: 4/8-4/12 <br>
 
 <p align="center">
 S2 Week 14: 4/15-4/19 <br>
-         We began work on the boat this week. So far we have managed to make the inner body of the boat, but have not finished work on the back of the boat. So far we have done a lot of good work, and have not actually used any tape, as we're temporarily using binder clips. Along with this, we have also managed to figure out all our work for next week, where we will start to work on the outer body of the boat. So far we have mostly been following our TinkerCAD's dimensions, although we many need to see about altering them slightly once we've got the outer body done... (image to be uploaded on Thursday, once we have it :3)
+         We began work on the boat this week. So far we have managed to make the inner body of the boat, but have not finished work on the back of the boat. So far we have done a lot of good work, and have not actually used any tape, as we're temporarily using binder clips. Along with this, we have also managed to figure out all our work for next week, where we will start to work on the outer body of the boat. So far we have mostly been following our TinkerCAD's dimensions, although we many need to see about altering them slightly once we've got the outer body done...
+</p>
+
+![unnamed](https://github.com/ineffible/website/assets/142843884/ce004daa-8e11-42ff-93e5-310723d92cf3)
+
+<p align="center">
+S2 Week 15: 4/22-4/26 <br>
+        This week, we continued to work on our boat. We have started work on the outer body, with minimal setbacks or problems. However, I do worry about how we will start to tape the inside together, as it doesn't like to stay, even with the binder clips. We still need to finish the outer body, mainly in the back, but plan to finish that off next week. We probably need 2-3 more pieces of cardboard, and then we'll start taping it together.
 </p>
 <style>
   body {
