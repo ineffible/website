@@ -254,6 +254,12 @@ S2 Week 14: 4/15-4/19 <br>
 S2 Week 15: 4/22-4/26 <br>
         This week, we continued to work on our boat. We have started work on the outer body, with minimal setbacks or problems. However, I do worry about how we will start to tape the inside together, as it doesn't like to stay, even with the binder clips. We still need to finish the outer body, mainly in the back, but plan to finish that off next week. We probably need 2-3 more pieces of cardboard, and then we'll start taping it together.
 </p>
+
+<p align="center">
+S2 Week 16: 4/29-5/3 <br>
+        This week, we finished taping up the inside of the boat, and created the piece for the outer back. We also started on our structural supports that'll go inbetween the bodies. We're very excited to be almost done with the boat, and then we need to work on the paddles. We hope to fully assemble the boat next week, and put the paddles together. Once we've got all that done, we're hoping to have enough tape to put a good amount around the base of the outside, to water-proof it.
+</p>
+
 <style>
   body {
     background: pink;
