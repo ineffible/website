@@ -260,6 +260,10 @@ S2 Week 16: 4/29-5/3 <br>
         This week, we finished taping up the inside of the boat, and created the piece for the outer back. We also started on our structural supports that'll go inbetween the bodies. We're very excited to be almost done with the boat, and then we need to work on the paddles. We hope to fully assemble the boat next week, and put the paddles together. Once we've got all that done, we're hoping to have enough tape to put a good amount around the base of the outside, to water-proof it.
 </p>
 
+<p align="center">
+S2 Week 17: 5/6-5/10 <br>
+        We did not make much progress this week, as two of our groupmates were absent for one of the days. Me and the remaining partner, for the first day, worked on our boat analysis. When our groupmates were back, we finished taping the boat together. Both layers are (mostly) taped now, we just need to close the holes up. Next week, we plan to close said holes, and try to waterproof the boat as much as possible. One of the teammates is a bit worried about running out of tape, but we have quite a bit, compared to other groups. I think we'll be done by the deadline, as long as we work efficiently.
+</p>
 <style>
   body {
     background: pink;
