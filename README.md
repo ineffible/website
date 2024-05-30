@@ -212,6 +212,7 @@ S2 Week 3: 1/22-1/26 <br>
         For our egg drop machine, we made a small box, and created some kind of webbing inside it. We then surrounded that with cottonballs we unrolled, and created a large parachute to slow the fall. For the last day of building, we plan to finish the webbing, and do a few more test runs. We also did the flying paper challenge, which I created a paper airplane for. It went pretty far, but was not the farthest.
 </p>
 
+![VID_20240429_133219_exported_2100 (1)](https://github.com/ineffible/website/assets/142843884/55fc185f-6b75-4a33-8af2-ce955a906546)
 
 <p align="center">
   S2 Week 10: 3/11-3/15 <br>
@@ -276,7 +277,8 @@ S2 Week 17: 5/6-5/10 <br>
 S2 Week 18+19: 5/13-5/28 <br>
          Over these two weeks, we finalized our boat, and the paddles. We closed up the holes, and secured the tape down, as well as fully taping the paddles. Then, when we were fully done, we went out to the pool to test. We were a bit nervous, as our paddles weren't very stable, and we were watching other, more waterproofed, boats buckle, rip, and sink. When it was our turn though, we did great. Our boat lasted 15 minutes in the water, which is 5+ times longer than any of the other boats. The only thing we would've done differently is made our paddles more sturdy.
 
-  
+![IMG_2048](https://github.com/ineffible/website/assets/142843884/3a615bf4-7ae0-44f2-8e69-c3f9a06dfd50)
+
 <style>
   body {
     background: pink;
