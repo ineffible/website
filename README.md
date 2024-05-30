@@ -218,6 +218,7 @@ S2 Week 3: 1/22-1/26 <br>
        I was not here this week, so my partner was in charge of the egg drop. For the challenge, our parachute greatly slowed the device, so the egg did not break! Had we more time, we're not quite sure what we would add, although we may have tried to clean up the design a bit. I was not here for the other challenge, so I cannot make comments on how it went.
 </p>
 
+![VID_20240429_133219_exported_2100](https://github.com/ineffible/website/assets/142843884/651f34af-9825-4e17-8bb6-cdba8c13e26f)
 
 <p align="center">
   S2 Week 11: 3/25-3/29 <br>
