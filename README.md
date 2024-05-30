@@ -255,15 +255,27 @@ S2 Week 15: 4/22-4/26 <br>
         This week, we continued to work on our boat. We have started work on the outer body, with minimal setbacks or problems. However, I do worry about how we will start to tape the inside together, as it doesn't like to stay, even with the binder clips. We still need to finish the outer body, mainly in the back, but plan to finish that off next week. We probably need 2-3 more pieces of cardboard, and then we'll start taping it together.
 </p>
 
+![unnamed](https://github.com/ineffible/website/assets/142843884/6065875f-f374-44f5-8471-9271a8192b1f)
+
 <p align="center">
 S2 Week 16: 4/29-5/3 <br>
         This week, we finished taping up the inside of the boat, and created the piece for the outer back. We also started on our structural supports that'll go inbetween the bodies. We're very excited to be almost done with the boat, and then we need to work on the paddles. We hope to fully assemble the boat next week, and put the paddles together. Once we've got all that done, we're hoping to have enough tape to put a good amount around the base of the outside, to water-proof it.
 </p>
 
+![unnamed](https://github.com/ineffible/website/assets/142843884/e2ce930d-57b1-43a8-88e4-665814d4499f)
+
 <p align="center">
 S2 Week 17: 5/6-5/10 <br>
         We did not make much progress this week, as two of our groupmates were absent for one of the days. Me and the remaining partner, for the first day, worked on our boat analysis. When our groupmates were back, we finished taping the boat together. Both layers are (mostly) taped now, we just need to close the holes up. Next week, we plan to close said holes, and try to waterproof the boat as much as possible. One of the teammates is a bit worried about running out of tape, but we have quite a bit, compared to other groups. I think we'll be done by the deadline, as long as we work efficiently.
 </p>
+
+![unnamed](https://github.com/ineffible/website/assets/142843884/e55b32b4-71d7-4aff-819b-5e90a421f6c8)
+
+<p align="center">
+S2 Week 18+19: 5/13-5/28 <br>
+         Over these two weeks, we finalized our boat, and the paddles. We closed up the holes, and secured the tape down, as well as fully taping the paddles. Then, when we were fully done, we went out to the pool to test. We were a bit nervous, as our paddles weren't very stable, and we were watching other, more waterproofed, boats buckle, rip, and sink. When it was our turn though, we did great. Our boat lasted 15 minutes in the water, which is 5+ times longer than any of the other boats. The only thing we would've done differently is made our paddles more sturdy.
+
+  
 <style>
   body {
     background: pink;
